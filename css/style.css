@@ -5,3 +5,7 @@ body{
     padding: 120px;
     box-sizing: border-box;
 }
+
+ul{
+    text-align: left;
+}

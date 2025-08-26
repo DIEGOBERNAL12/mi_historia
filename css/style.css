@@ -1,5 +1,5 @@
 body{
-    background: #ffffff;
+    background: gray;
     text-align: center;
     color: #1e1e1e;
     padding: 120px;
@@ -8,4 +8,13 @@ body{
 
 ul{
     text-align: left;
+}
+
+img{
+    border: 5px solid black;
+}
+
+h1{
+    color: blue;
+    font-size: 40px;
 }
